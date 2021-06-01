@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sryaaditya/personal_web.git"
+    "url": "git+https://github.com/sryaaditya/three-js-webpack.git"
   },
   "author": "suryaaditya",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sryaaditya/personal_web/issues"
+    "url": "https://github.com/sryaaditya/three-js-webpack/issues"
   },
-  "homepage": "https://github.com/sryaaditya/personal_web#readme",
+  "homepage": "https://github.com/sryaaditya/three-js-webpack#readme",
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
