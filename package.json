@@ -1,23 +1,21 @@
 {
-  "name": "webpack-three-js-template",
+  "name": "three-js-webpack",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "build": "webpack --config ./bundler/webpack.prod.js",
     "dev": "webpack-dev-server --config ./bundler/webpack.dev.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brunosimon/webpack-three-js-template.git"
+    "url": "git+https://github.com/sryaaditya/personal_web.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "suryaaditya",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brunosimon/webpack-three-js-template/issues"
+    "url": "https://github.com/sryaaditya/personal_web/issues"
   },
-  "homepage": "https://github.com/brunosimon/webpack-three-js-template#readme",
+  "homepage": "https://github.com/sryaaditya/personal_web#readme",
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
